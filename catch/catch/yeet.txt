@@ -1,0 +1,8 @@
+int i,j;
+for(i=0;i<set;i++){
+for(j=0;j<assoc;j++){
+cache[i][j].tag=0;
+cache[i][j].valid=0;
+cache[i][j].time=0;
+}
+}
