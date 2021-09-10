@@ -1,0 +1,19 @@
+-- Haskell Playground 1.0
+div7or9 1
+div7or9 63
+echo "fbe"
+echo "d6 ?"
+echo ""
+
+countEvens []
+
+echons "d6 ?"
+echons " . a f"
+
+centroid [(0,2),(2,0)]
+
+centroid [(0,2),(2,0),(4,4)]
+
+hailstone 1
+hailstone 3
+hailstone 0

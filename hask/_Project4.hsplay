@@ -1,0 +1,9 @@
+-- Haskell Playground 1.0
+accepts atMost2As []
+accepts atMost2As [B,B,B,B,B,A,B,B,A]
+
+accepts oddAs [A]
+accepts oddAs [A,A,A,A,A,A,C,A]
+
+
+lefts [Left 1, Right 'a', Left 2]

@@ -1,0 +1,15 @@
+-- Haskell Playground 1.0
+seemore (Repeat(Symbol A) :+: (Symbol B :|: Empty) :+: Symbol A) 1
+
+
+minLength (Repeat(Symbol A))
+
+minLength (Symbol C :+: (Symbol B :|: Empty) :+: Symbol A)  
+
+y = toRational(seemore (Symbol A) 1)
+
+z = round y
+
+toInteger z
+
+maxLength (Repeat (Symbol A))
